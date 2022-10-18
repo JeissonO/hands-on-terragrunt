@@ -1,5 +1,4 @@
 # Terragrunt-lab
-Terragrunt lab
 
 ## Update your terragrunt configuration file
 
