@@ -7,6 +7,6 @@ locals {
   tags = {
     Terraform  = "true"
     Terragrunt = "true"
-    Owner      = "jeisson.osoriob@gmail.com"
+    Owner      = var.owner_email
   }
 }
